@@ -15,3 +15,9 @@ El sistema permite registrar ventas, aplicar descuentos, seleccionar métodos de
 - Validación de entradas
 - Generación de 50 registros de prueba
 
+## Tecnologías utilizadas
+- PSeint
+- Python
+- Visual Studio Code
+- GitHub
+

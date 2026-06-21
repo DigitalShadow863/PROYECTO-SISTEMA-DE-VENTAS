@@ -21,3 +21,10 @@ El sistema permite registrar ventas, aplicar descuentos, seleccionar métodos de
 - Visual Studio Code
 - GitHub
 
+## Autor
+- Perez Chavez, Percy Felipe
+- Marcelo Gatica, Jhordy Emanuel
+- Tacilla Terrones, Cleison Yair
+- Ascencio Marchena, Milagros 
+
+Proyecto académico desarrollado para el curso de Fundamentos de programación.
